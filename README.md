@@ -21,7 +21,7 @@ _description_
 
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [Anthony Fu](https://github.com/kmq116)
+[MIT](./LICENSE) License © 2023-PRESENT [kmq116](https://github.com/kmq116)
 
 <!-- Badges -->
 
